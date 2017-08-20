@@ -1,0 +1,16 @@
+
+{
+  "values": [
+    {"prefix": "a-", "value": 100,   "circulation": 10000},
+    {"prefix": "b-", "value": 50,    "circulation": 20000},
+    {"prefix": "c-", "value": 20,    "circulation": 50000},
+    {"prefix": "d-", "value": 10,    "circulation": 100000},
+    {"prefix": "e-", "value": 5,     "circulation": 200000},
+    {"prefix": "f-", "value": 1,     "circulation": 1000000},
+    {"prefix": "g-", "value": 0.25,  "circulation": 4000000},
+    {"prefix": "h-", "value": 0.1,   "circulation": 10000000},
+    {"prefix": "i-", "value": 0.05,  "circulation": 30000000},
+    {"prefix": "j-", "value": 0.01,  "circulation": 40000000},
+    {"prefix": "k-", "value": 0.005, "circulation": 50000000}
+  ]
+}

@@ -1,0 +1,8 @@
+
+{
+  "hosts": [
+    {"address": "mint1.billots.org", "port": 7333},
+    {"address": "mint2.billots.org", "port": 7334},
+    {"address": "mint3.billots.org", "port": 7335}
+  ]
+}

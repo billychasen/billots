@@ -1,0 +1,9 @@
+*.pyc
+.cache
+.env
+/dist/
+/*.egg-info
+.eggs
+*.db
+*.log
+*.pub
