@@ -1,7 +1,7 @@
 Billots - Blockchain-Free Cryptocurrency
 ========================================
 
-.. image:: http://billots.org/img/logo.svg
+.. image:: http://billots.org/assets/img/logo.svg
    :width: 200px
    :align: center
 
