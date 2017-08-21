@@ -1,15 +1,18 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(name="billots",
-      version="0.1",
+      version="0.1.1",
       description="Official project of billots.org cryptocurrency.",
       keywords="billots cryptocurrency billot",
       url="https://github.com/billychasen/billots",
-      download_url="https://github.com/billychasen/billots/archive/v0.1.tar.gz",
       author="Billy Chasen",
       author_email="billy@billychasen.com",
       license="MIT",
-      packages=["billots"],
+      packages=find_packages(),
+      package_data={
+        "billots": ["src/resources/*"],
+        },
+      python_requires='>=3',
       install_requires=[
         "attrs==17.2.0",
         "Automat==0.6.0",
