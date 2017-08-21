@@ -94,7 +94,7 @@ Testing
 
 Testing can be done locally, but there are also two networks currently running (billots testnet runs on ``mint1.billots.org ports 17333-17335`` and live runs on ``mint1.billots.org ports 7333-7335``).
 
-You can request billots on the testnet to play at http://billots.org/test_billots.
+You can request testnet billots to play with at http://billots.org/test_billots.
 
 Installing
 ==========
