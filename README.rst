@@ -25,7 +25,7 @@ How it works
 
 Billots is set up much like cash. There is a defined circulation with different denominations. Each billot has a value and an owner. When someone transfers a billot to someone else, they cryptographically prove they own that billot and broadcast a message saying who the new owner is. The new owner then checks multiple servers to see that they are the new owner. Once they confirm they are the new owner, they can consider the transaction complete (and do things like deliver goods/services).
 
-Unlike blockchains, Billots do not require the knowledge of every previous transaction to determine ownership.
+Unlike blockchains, billots do not require the knowledge of every previous transaction to determine ownership and value.
 
 "Trusted" servers
 =================
