@@ -99,7 +99,7 @@ You can request testnet billots to play with at http://billots.org/test_billots.
 Installing
 ==========
 
-You can install using pip::
+You can install using pip (requires Python 3)::
 
     pip install billots
 
