@@ -25,6 +25,8 @@ How it works
 
 Billots is set up much like cash. There is a defined circulation with different denominations. Each billot has a value and an owner. When someone transfers a billot to someone else, they cryptographically prove they own that billot and broadcast a message saying who the new owner is. The new owner then checks multiple servers to see that they are the new owner. Once they confirm they are the new owner, they can consider the transaction complete (and do things like deliver goods/services).
 
+Unlike blockchains, Billots do not require the knowledge of every previous transaction to determine ownership.
+
 "Trusted" servers
 =================
 
@@ -90,7 +92,9 @@ One issue with billots is sending exact amounts to someone. To solve this, there
 Testing
 =======
 
-Testing can be done locally, but there are also two networks currently running (billots testnet runs on ``mint1.billots.org ports 17333-17335`` and live runs on ``mint1.billots.org ports 7333-7335``). You can request billots on the testnet to play with here.
+Testing can be done locally, but there are also two networks currently running (billots testnet runs on ``mint1.billots.org ports 17333-17335`` and live runs on ``mint1.billots.org ports 7333-7335``).
+
+You can request billots on the testnet to play at http://billots.org/test_billots.
 
 Installing
 ==========
