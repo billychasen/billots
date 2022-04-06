@@ -24,7 +24,7 @@ setup(name="billots",
         "pycrypto==2.6.1",
         "pytest==3.1.3",
         "six==1.10.0",
-        "Twisted==17.5.0",
+        "Twisted==22.2.0",
         "zope.interface==4.4.2",
         ],
       entry_points={
